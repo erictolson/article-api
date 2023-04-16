@@ -10,5 +10,7 @@ Initialize NPM in the app directory, NPM install express, body-parser, ejs, and 
 
 Here is an example of POST/DELETE using Postman for the '/articles' route.
 
+GET/PUT/PATCH/DELETE are also available for '/articles/{article title}' routes.
+
 https://user-images.githubusercontent.com/91225947/232345228-f43bfff0-690a-4955-a821-f01d6920f837.mov
 
